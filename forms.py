@@ -1,5 +1,3 @@
-#Items I forgot
-#   Passing FlaskForm through PetForm
 
 from flask_wtf import FlaskForm
 from wtforms import StringField, FloatField, BooleanField, SelectField, TextAreaField

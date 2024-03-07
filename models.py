@@ -1,12 +1,3 @@
-# Items I fogot
-#       - Setting a generic image
-#       - db = SQLAlchemy()
-#       - Passing db.Model through Pets()
-#       - Setting default to True instead of a string
-#       - def connect_db(app):
-#       --- db.app = app
-#       --- db.init_app(app)
-
 
 from flask_sqlalchemy import SQLAlchemy
 
